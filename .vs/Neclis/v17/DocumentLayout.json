@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C19096-D909-4B80-A38E-C636201E952E}|Neclis.Persistencia\\Neclis.Persistencia.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.persistencia\\transaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C19096-D909-4B80-A38E-C636201E952E}|Neclis.Persistencia\\Neclis.Persistencia.csproj|solutionrelative:neclis.persistencia\\transaccionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.webapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|solutionrelative:neclis.webapi\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\services\\transaccionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\services\\transaccionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C19096-D909-4B80-A38E-C636201E952E}|Neclis.Persistencia\\Neclis.Persistencia.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.persistencia\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C19096-D909-4B80-A38E-C636201E952E}|Neclis.Persistencia\\Neclis.Persistencia.csproj|solutionrelative:neclis.persistencia\\cuentarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D3B809-C28F-4CCE-8E77-DE668CC46E0F}|Neclis.Entidades\\Neclis.Entities.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.entidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D3B809-C28F-4CCE-8E77-DE668CC46E0F}|Neclis.Entidades\\Neclis.Entities.csproj|solutionrelative:neclis.entidades\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\services\\cuentaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\services\\cuentaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\dtos\\agregartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\dtos\\agregartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\dtos\\consultartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\dtos\\consultartransacciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|solutionrelative:neclis.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.webapi\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|solutionrelative:neclis.webapi\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\dtos\\actualizarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\dtos\\actualizarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\dtos\\eliminarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\dtos\\eliminarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D3B809-C28F-4CCE-8E77-DE668CC46E0F}|Neclis.Entidades\\Neclis.Entities.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.entidades\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D3B809-C28F-4CCE-8E77-DE668CC46E0F}|Neclis.Entidades\\Neclis.Entities.csproj|solutionrelative:neclis.entidades\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\dtos\\consultarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\dtos\\consultarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|solutionrelative:neclis.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58597A6C-A17C-44C2-968C-647E0DACEB29}|Neclis.WebApi\\Neclis.WebApi.csproj|solutionrelative:neclis.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\dtos\\agregarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\dtos\\agregarcuentadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|c:\\users\\asus\\onedrive\\desktop\\neclis\\neclis.logicadenegocios\\neclis.logicadenegocios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5A7F5D2-6651-41A8-A01D-6DCFFC6B04CA}|Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj|solutionrelative:neclis.logicadenegocios\\neclis.logicadenegocios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\ActualizarCuentaDto.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Dtos\\ActualizarCuentaDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\ActualizarCuentaDto.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Dtos\\ActualizarCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:11.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentaServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Services\\CuentaServices.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Services\\CuentaServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Services\\CuentaServices.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Services\\CuentaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:58.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "Neclis.WebApi\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "Neclis.WebApi\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:25:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Entidades\\Transaccion.cs",
+              "RelativeDocumentMoniker": "Neclis.Entidades\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Entidades\\Transaccion.cs",
+              "RelativeToolTip": "Neclis.Entidades\\Transaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:03:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransaccionServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Services\\TransaccionServices.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Services\\TransaccionServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Services\\TransaccionServices.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Services\\TransaccionServices.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:08:05.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "Neclis.WebApi\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "Neclis.WebApi\\Controllers\\CuentaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:25:14.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Neclis.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Program.cs",
+              "RelativeToolTip": "Neclis.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:53:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarTransaccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\AgregarTransaccionDto.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Dtos\\AgregarTransaccionDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\AgregarTransaccionDto.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Dtos\\AgregarTransaccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransaccionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Persistencia\\TransaccionRepository.cs",
+              "RelativeDocumentMoniker": "Neclis.Persistencia\\TransaccionRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Persistencia\\TransaccionRepository.cs",
+              "RelativeToolTip": "Neclis.Persistencia\\TransaccionRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T23:22:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Persistencia\\CuentaRepository.cs",
+              "RelativeDocumentMoniker": "Neclis.Persistencia\\CuentaRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Persistencia\\CuentaRepository.cs",
+              "RelativeToolTip": "Neclis.Persistencia\\CuentaRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:47:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarTransaccionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\ConsultarTransaccionDto.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Dtos\\ConsultarTransaccionDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\ConsultarTransaccionDto.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Dtos\\ConsultarTransaccionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:42.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AgregarCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\AgregarCuentaDto.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Dtos\\AgregarCuentaDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\AgregarCuentaDto.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Dtos\\AgregarCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultarCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\ConsultarCuentaDto.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Dtos\\ConsultarCuentaDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\ConsultarCuentaDto.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Dtos\\ConsultarCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:32.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Neclis.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Neclis.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T21:54:18.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Entidades\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Neclis.Entidades\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.Entidades\\Cuenta.cs",
+              "RelativeToolTip": "Neclis.Entidades\\Cuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:45:27.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EliminarCuentaDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\EliminarCuentaDto.cs",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Dtos\\EliminarCuentaDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Dtos\\EliminarCuentaDto.cs",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Dtos\\EliminarCuentaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T22:07:48.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Neclis.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.WebApi\\appsettings.json",
+              "RelativeToolTip": "Neclis.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T22:08:22.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Neclis.LogicaDeNegocios.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj",
+              "RelativeDocumentMoniker": "Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Neclis\\Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj",
+              "RelativeToolTip": "Neclis.LogicaDeNegocios\\Neclis.LogicaDeNegocios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T22:06:44.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

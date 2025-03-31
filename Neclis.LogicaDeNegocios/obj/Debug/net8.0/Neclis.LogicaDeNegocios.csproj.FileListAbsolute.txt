@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.LogicaDeNegocios.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.LogicaDeNegocios.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.LogicaDeNegocios.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.Entities.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.Entities.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\bin\Debug\net8.0\Neclis.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.L.FF1D5F8E.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\refint\Neclis.LogicaDeNegocios.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\Neclis.LogicaDeNegocios.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.LogicaDeNegocios\obj\Debug\net8.0\ref\Neclis.LogicaDeNegocios.dll

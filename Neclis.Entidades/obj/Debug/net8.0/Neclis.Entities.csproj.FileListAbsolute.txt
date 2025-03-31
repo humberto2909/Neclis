@@ -1,0 +1,11 @@
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\bin\Debug\net8.0\Neclis.Entities.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\bin\Debug\net8.0\Neclis.Entities.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\bin\Debug\net8.0\Neclis.Entities.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\Neclis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\Neclis.Entities.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\Neclis.Entities.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\Neclis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\Neclis.Entities.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\refint\Neclis.Entities.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\Neclis.Entities.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Entidades\obj\Debug\net8.0\ref\Neclis.Entities.dll

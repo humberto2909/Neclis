@@ -1,0 +1,6 @@
+@Neclis.WebApi_HostAddress = http://localhost:5114
+
+GET {{Neclis.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

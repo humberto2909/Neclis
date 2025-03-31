@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\bin\Debug\net8.0\Neclis.Persistencia.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\bin\Debug\net8.0\Neclis.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\bin\Debug\net8.0\Neclis.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\bin\Debug\net8.0\Neclis.Entities.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\bin\Debug\net8.0\Neclis.Entities.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.P.F2EF5F24.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\refint\Neclis.Persistencia.dll
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\Neclis.Persistencia.pdb
+C:\Users\ASUS\OneDrive\Desktop\Neclis\Neclis.Persistencia\obj\Debug\net8.0\ref\Neclis.Persistencia.dll
